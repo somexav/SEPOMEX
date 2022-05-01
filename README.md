@@ -2,7 +2,7 @@
 Prueba Back End
 
 La elaboración de la prueba se hizo de la siguiente manera:
-1. Primero se realizó el modelo relacional de la base de datos. Para ello se hizo un análisis de las tablas arrojadas por SEPOMEX.  Esto me llevó a realizar una normalización en segunda forma lo que dio como resultado 5 tablas. 
+# 1. Primero se realizó el modelo relacional de la base de datos. Para ello se hizo un análisis de las tablas arrojadas por SEPOMEX.  Esto me llevó a realizar una normalización en segunda forma lo que dio como resultado 5 tablas. 
 <img src="Modelo-Relacional/Modelo Relacional.jpg" alt="Modelo relacional"/>
 2. La creación de la base se puede hacer desde el script _create base.py_
 3. Posteriormente se hizo la base de datos por medio de un **Seed Script** ubicado en la carpeta API. En ella también se encuentra el código para crear la base de datos en algún manejador de SQL.
