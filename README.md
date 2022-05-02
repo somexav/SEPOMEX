@@ -19,13 +19,13 @@ La elaboración de la prueba se hizo de la siguiente manera:
 
 -BUSQUEDA DE COLONIAS POR CP
 
--Despliegue de MUNICIPIOS por ESTADO
+-BUSQUEDA de MUNICIPIOS por ESTADO
 
--Despliegue de COLONIAS por MUNICIPIO
+-BUSQUEDA de COLONIAS por MUNICIPIO
 
 -Despliegue de ESTADOS
 
--Despliegue de estado por código
+-BUSQUEDA de estado por código
 
 -Agregar nuevos registros (está el código base, pero tengo un error)
  
