@@ -32,3 +32,4 @@ La elaboración de la prueba se hizo de la siguiente manera:
 Todo fue realizado mediantes **FLASK** y ***PYTHON3**
 
 5. El website fue realizado mediante Bootstrap, en este momento (6:56 PM) no lo he terminado, espero terminarlo en unas horas.
+Este Se encuentra en src/templates
