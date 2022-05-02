@@ -35,7 +35,17 @@ Todo fue realizado mediantes **FLASK** y ***PYTHON3**
 Este Se encuentra en src/templates
 
 UPDATE:
+
+-ESCRITORIO:
+
 images_reedme/1.PNG
-<img src="images_reedme/1.PNG" alt="Website_2/">
+<img src="images_reedme/1.PNG" alt="Website_1/">
 <img src="images_reedme/2.PNG" alt="Website_2/">
-                               
+
+-MOBILE:
+
+images_reedme/1.PNG
+<img src="images_reedme/3.PNG" alt="Website_3/">
+<img src="images_reedme/4.PNG" alt="Website_4/">
+
+
