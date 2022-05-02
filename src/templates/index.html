@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+    <title>Colonias de Mexico</title>
+
+    <!--BOOTSTRAP-->
+    <link rel="stylesheet" href="{{ url_for('static',filename='bootstrap.css')}}">
+    <!--MAIN CSS-->
+    <link rel="stylesheet" href="{{ url_for('static',filename='style.css')}}">
+</head>
+
+
+<!--================BANNER NAVBAR =================-->
+<header>
+    <!------------Header---------------->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <!--LOGO-->
+            <a class="navbar-brand" href="#">
+                <img src="{{ url_for('static',filename='../static/images/J.png')}}" class="img-fluid"
+                    style="max-height: 60px;" alt="">
+
+            </a>
+            <!--NAVBAR-->
+
+            <a class="navbar-brand" href="#">INICIO</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01"
+                aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarColor01">
+                <ul class="navbar-nav me-auto">
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Estados</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Municipios</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Colonias</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Agregar</a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+</header>
+
+
+
+<body>
+
+    <!--================BANNER PRINCIPAL =================-->
+    <section class="home_banner_area">
+        <div class="box_1620">
+            <div class="banner_inner d-flex align-items-center">
+                <div class="container">
+                    <div class="banner_content text-center" style="background-color: rgba(black,0.3);">
+                        <h1 style="color:rgb(247, 241, 241);">Colonias de Mexico</h1>
+                        <h2 style="color:rgb(252, 250, 250);">Javier Martinez</h2>
+
+                        <a type="button" class="btn btn-primary" href="#">INICAIR</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+</body>
+<!--================ FOOTER =================-->
+<footer id="footer" class="bg-primary">
+    <div class="container-fluid  text-white ">
+        <div class="row">
+            <div class="col-12 col-lg-4 p-2">
+                <div class="card-img ">
+                    <a class="navbar-brand p-5" href="#">
+                        <img src="{{ url_for('static',filename='../static/images/J.png')}}" class="img-fluid"
+                            style="max-height: 150px;" alt="">
+
+                    </a>
+
+                </div>
+
+            </div>
+            <div class="col-12 col-lg-4 p-2 ">
+                <aside class="card-body">
+                    <div class="f_title">
+                        <h5 style="color: aliceblue;">JAVIER</h5>
+                    </div>
+
+
+
+                    <strong>Teléfono:</strong> 56 68 84 05 29<br>
+
+                    <strong>eMail:</strong> lds.xavi@gmail.com<br>
+                </aside>
+            </div>
+            <div class="col-12 col-lg-4 p-5">
+                <aside class="targe">
+                    <div class="f_title">
+                        <h4 style="color: aliceblue;">Síguenos</h4>
+                    </div>
+                    <card-body>
+
+                        <a style='color:aliceblue' href="https://github.com/somexav">GITHUB</a>
+                    </card-body>
+                    </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+</html>
