@@ -13,7 +13,7 @@ La elaboración de la prueba se hizo de la siguiente manera:
 **Nota** Es importante mencionar que la llave primaria de la tabla SEPOMEX es una combinación de: *estado, municipio, colonia y CP* ya que la combinación de estos números nos crea un único identificador para cada registro. También, el llenado de la base de datos es solo del 1% ya que son miles de registros, sin embargo, esto se puede modificar y poner el porcentaje que se requiera.
 
 
-4. La API se hizo para los siguientes casos:
+4. La API se hizo para los siguientes casos (es la carpeta src). 
 
 -Error404
 
@@ -28,6 +28,7 @@ La elaboración de la prueba se hizo de la siguiente manera:
 -Despliegue de estado por código
 
 -Agregar nuevos registros (está el código base, pero tengo un error)
-
+ 
+Todo fue realizado mediantes **FLASK** y ***PYTHON3**
 
 5. El website fue realizado mediante Bootstrap, en este momento (6:56 PM) no lo he terminado, espero terminarlo en unas horas.
