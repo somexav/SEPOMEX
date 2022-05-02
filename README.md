@@ -33,3 +33,9 @@ Todo fue realizado mediantes **FLASK** y ***PYTHON3**
 
 5. El website fue realizado mediante Bootstrap, en este momento (6:56 PM) no lo he terminado, espero terminarlo en unas horas.
 Este Se encuentra en src/templates
+
+UPDATE:
+images_reedme/1.PNG
+<img src="images_reedme/1.PNG" alt="Website_2/">
+<img src="images_reedme/2.PNG" alt="Website_2/">
+                               
